@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Mendix 2017",
+      "license": "MIT",
+      "author": "Pranay Kondai",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
